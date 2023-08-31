@@ -9,4 +9,4 @@ Here is where I plan to go next:
   2. Python
   3. SQL
 
-I will be a full-time software developer within 6 months, that is my goal and I'm working for hours every single day until it's accomplished.
+I will be a full-time software developer within 6 months, that is my goal and I'm dedicating long hours every single day until it's accomplished.
